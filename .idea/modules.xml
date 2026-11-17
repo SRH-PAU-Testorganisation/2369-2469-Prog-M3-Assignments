@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_00_ScratchPad/_00_ScratchPad.iml" filepath="$PROJECT_DIR$/_00_ScratchPad/_00_ScratchPad.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_RobotsOOP/_01_RobotsOOP.iml" filepath="$PROJECT_DIR$/_01_RobotsOOP/_01_RobotsOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Demo_OOP/_Demo_OOP.iml" filepath="$PROJECT_DIR$/_Demo_OOP/_Demo_OOP.iml" />
     </modules>
   </component>
 </project>
