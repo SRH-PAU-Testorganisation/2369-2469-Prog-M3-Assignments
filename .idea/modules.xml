@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_00_ScratchPad/_00_ScratchPad.iml" filepath="$PROJECT_DIR$/_00_ScratchPad/_00_ScratchPad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_RobotsOOP/_01_RobotsOOP.iml" filepath="$PROJECT_DIR$/_01_RobotsOOP/_01_RobotsOOP.iml" />
+    </modules>
+  </component>
+</project>
