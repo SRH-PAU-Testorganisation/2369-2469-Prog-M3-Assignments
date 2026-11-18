@@ -1,4 +1,4 @@
-# Aufgabe: Robotter-Armee
+# Aufgabe: Roboter-Armee
 
 In diesem Ordner `_01_RobotsOOP/` bearbeiten Sie die **Aufgaben 1 bis 7 aus dem Skript** `Resources/Cramer_Java_Objektorientierung.pdf`.
 Speichern Sie alle Java-Dateien in dem Unterordner `_01_RobotsOOP/src/`.
